@@ -1,2 +1,2 @@
 # Hotel-Management
-Hotel Management System by connecting MySQL with Python
+Hotel Management System using Python and MySQL
